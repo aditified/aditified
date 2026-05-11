@@ -1,8 +1,7 @@
  Hey there 👋
-
-I'm Aditi, a CS student passionate about building things that matter.
-I mostly work across Web Development(MERN), & exploring domain like AI/ML, and Cybersecurity — I like understanding how things work, and sometimes how to break them.
-I enjoy exploring new technologies and finding where different fields of tech intersect. Everything here is built from scratch — no copy/paste templates.
+I'm Aditi, CS student passionate about building things that matter
+I mostly work across Web Devlopment(MERN) & exploring AI/ML - I like to to add creativity with logic and understnd how things work.
+enjoy exploring new technologies & finding where different fields of tech intersect. Everything here is build from scratch- no copy/paste templates
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🛠️ Tools & Tech
 
