@@ -8,7 +8,7 @@ CS student passionate about building things that matter & focused on learning da
 
 - HTML, CSS, JavaScript, React, Node.js, Express.js
 - MongoDB, MySQL
-- Python, Java (DSA), C/C++
+- Python, Java (DSA), C/C++, PHP
 - Git & GitHub
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
